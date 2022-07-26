@@ -1,27 +1,28 @@
 # Moments
+Rede Social Moments com API Adonis usando Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
+Download da API Adonis:
 
-## Development server
+# Gif do Site
+![Moments](https://github.com/rosivaldocamjr/moments/blob/master/video_moments.gif)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Home
+![image](https://user-images.githubusercontent.com/91435382/180918736-8d019818-36cd-41ab-99e1-aeb2be8567e1.png)
 
-## Code scaffolding
+# Rota Compartilhar
+![image](https://user-images.githubusercontent.com/91435382/180918770-e58b780c-948e-4f9b-8395-ff3f51362401.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Rota Sobre
+![image](https://user-images.githubusercontent.com/91435382/180918810-7ca746d5-e278-4200-859f-8997ae4817f3.png)
 
-## Build
+# Rota Detalhes
+![image](https://user-images.githubusercontent.com/91435382/180918858-8c64b096-7d9f-4957-9787-7d65a42805a9.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Área de Ações e Comentários
+![image](https://user-images.githubusercontent.com/91435382/180918893-541f4d93-078b-4fdb-95c3-7db937b92467.png)
 
-## Running unit tests
+# Comentando
+![image](https://user-images.githubusercontent.com/91435382/180918933-91f2796a-75ac-4f8b-b16e-cb6cd26f86ce.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Área de Edição
+![image](https://user-images.githubusercontent.com/91435382/180918980-c2c575c1-8259-484e-8977-ac0c44246d8d.png)
